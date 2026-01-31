@@ -1,0 +1,10 @@
+boto3
+awscli
+python-dotenv
+pypdf
+langchain
+streamlit
+langchain_community
+faiss-cpu
+langchain-aws
+langchain-core
